@@ -17,7 +17,7 @@ export default function Projects() {
             Jump into a playground of cool apps I've cooked up! From quirky utilities to slick interfaces, these are the digital babies I've brought to life. Swipe, click, and enjoy the tech magic!
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        {/* <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
             <a
               href={project.link}
@@ -41,7 +41,7 @@ export default function Projects() {
               </div>
             </a>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );
