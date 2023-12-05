@@ -14,9 +14,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+          I'm a tech enthusiast fluent in the language of bits and bytes. Whether it's coding in Python, dancing with JavaScript frameworks, or weaving UX magic, I've got the skills to make the digital dance. Check out the tech palette I use to paint my digital dreams.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
