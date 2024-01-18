@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./goudvisie.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://goudvisie.nl/",
   },
   {
     title: "Fidus",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./fidus.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://fidus.nl/",
   },
   {
     title: "Athlon",
@@ -21,15 +21,15 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./athlon.jpeg",
-    link: "https://reactbootcamp.com",
+    link: "https://3110.nl/project/athlon-international/",
   },
   {
     title: "Jayani",
-    subtitle: "PHP, WordPress, Bootstrap",
+    subtitle: "PHP, WordPress, Bootstrap, JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Jayani.gif",
+    link: "https://jayanimasthoff.nl/",
   },
 ];
 
