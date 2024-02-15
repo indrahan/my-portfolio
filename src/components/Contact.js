@@ -74,7 +74,8 @@ export default function Contact() {
             Let's get in touch!
           </h2>
           <p className="leading-relaxed mb-5">
-          Got an idea, a question, or just want to geek out about the latest tech trends? I'm all ears! Let's grab a virtual coffee and chat. Drop me a line, and let's turn your tech dreams into reality! 🚀
+          Have an idea, a question? I'm here and all ears! 
+          Let's connect over a virtual coffee and chat. Shoot me a message, and together, let's bring our ideas to life! 🚀
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

@@ -14,7 +14,7 @@ export default function Projects() {
             Websites I've worked on
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Jump into a playground of cool websites I've cooked up! From quirky utilities to slick interfaces, these are the digital babies I've brought to life!
+            Dive into a collection of innovative websites I've developed! From unique tools to sleek designs, these are the digital creations I've brought to life!
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

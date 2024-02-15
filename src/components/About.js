@@ -10,25 +10,24 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Indra.
-            <br className="hidden lg:inline-block" />I build apps.
+            <br className="hidden lg:inline-block" />I build websites.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a Computer Science graduate with a rich background in web development, boasting four years of hands-on experience in developing digital solutions. 
-            From coding intricate algorithms to designing intuitive user interfaces, 
-            my journey in the world of technology has equipped me with the skills and 
-            expertise to bring innovative ideas to life on the web. 
-            Let's embark on a conversation where we can explore the endless possibilities at the intersection of code and creativity.
+            As a recent Computer Science graduate with a rich background in web development, having four years of hands-on experience in developing web apps and websites. 
+            my experience in web development has equipped me with the skills and 
+            expertise to bring innovative designs to life on the web. 
+            Let's connect and join forces to explore the exciting potential where coding and creativity meet.
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Contact me
             </a>
             <a
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              My Work
+              My Experience
             </a>
           </div>
         </div>
