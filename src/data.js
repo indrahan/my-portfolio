@@ -11,7 +11,7 @@ export const projects = [
     title: "Fidus",
     subtitle: "Nuxt.js, Headless WordPress, TailwindCSS",
     description:
-      "",
+      "Fidus takes care of all your financial affairs. From insurance to your pension. Whether you are going to buy a house, start as a self-employed person or need absenteeism insurance for your employees. Fidus ensures that you can go through life with confidence.",
     image: "./fidus.gif",
     link: "https://fidus.nl/",
   },
