@@ -3,7 +3,7 @@ export const projects = [
     title: "Goudvisie",
     subtitle: "PHP, WordPress, Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Goudsteen & Company and Danaë will continue under one name: Goudvisie. A combination of various expertise from organizational advice and change management to blended learning and serious gaming. In other words: Creating maximum space for growth and enthusiasm for the development of individuals, teams and organizations.",
     image: "./goudvisie.gif",
     link: "https://goudvisie.nl/",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Fidus",
     subtitle: "Nuxt.js, Headless WordPress, TailwindCSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./fidus.gif",
     link: "https://fidus.nl/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Athlon",
     subtitle: "Angular",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Athlon, one of the largest leasing and mobility providers in Europe. With branches throughout Europe and even beyond, Athlon serves a variety of sectors such as private individuals, corporates and SMEs. Athlon is a pioneer in offering tailor-made car leasing solutions",
     image: "./athlon.jpeg",
     link: "https://3110.nl/project/athlon-international/",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Jayani",
     subtitle: "PHP, WordPress, Bootstrap, JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Jayani Masthoff is an intuitive cognitive neuropsychologist and entrepreneur. Her mission is to help people stay true to their authentic selves so they can be happier and then pass that happiness on.",
     image: "./Jayani.gif",
     link: "https://jayanimasthoff.nl/",
   },
