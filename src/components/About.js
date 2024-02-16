@@ -16,7 +16,7 @@ export default function About() {
             As a recent Computer Science graduate with a rich background in web development, having four years of hands-on experience in developing web apps and websites. 
             my experience in web development has equipped me with the skills and 
             expertise to bring innovative designs to life on the web. 
-            Let's connect and join forces to explore the exciting potential where coding and creativity meet.
+            Let's connect to explore the exciting potential where coding and creativity meet.
           </p>
           <div className="flex justify-center">
             <a
