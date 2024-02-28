@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Athlon, one of the largest leasing and mobility providers in Europe. With branches throughout Europe and even beyond, Athlon serves a variety of sectors such as private individuals, corporates and SMEs. Athlon is a pioneer in offering tailor-made car leasing solutions",
     image: "./athlon.jpeg",
-    link: "https://3110.nl/project/athlon-international/",
+    link: "https://www.athlon.com/it/offerta-commerciale/audi/q3-sportback/35-tdi-s-tronic-business-plus-764712?mileage=10000&duration=48&servicePackages=a&services=MANAGEMENT_FEE,THIRD_PARTY_LIABILITY,MATERIAL_DAMAGE,ROAD_ASSISTANCE,MAINTENANCE_REPAIR,SUMMER_TIRES,ROAD_TAX,FINE_MANAGEMENT",
   },
   {
     title: "Jayani",
